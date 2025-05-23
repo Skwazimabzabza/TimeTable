@@ -16,7 +16,7 @@
 1.Установить Visual Studio 2022 
 
 ## Разработчики
-1.Skwazimabzabza
-2.Sasha121103
+- 1.Skwazimabzabza
+- 2.Sasha121103
 
 
