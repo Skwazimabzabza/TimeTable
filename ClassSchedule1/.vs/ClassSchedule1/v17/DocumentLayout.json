@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|c:\\users\\administrator\\downloads\\classschedule1\\classschedule1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|solutionrelative:classschedule1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|c:\\users\\administrator\\downloads\\classschedule1\\classschedule1\\mybookingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|solutionrelative:classschedule1\\mybookingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|c:\\users\\administrator\\downloads\\classschedule1\\classschedule1\\editbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|solutionrelative:classschedule1\\editbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|c:\\users\\administrator\\downloads\\classschedule1\\classschedule1\\mybookingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|solutionrelative:classschedule1\\mybookingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|c:\\users\\administrator\\downloads\\classschedule1\\classschedule1\\editbookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|solutionrelative:classschedule1\\editbookingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|c:\\users\\administrator\\downloads\\classschedule1\\classschedule1\\reservationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|solutionrelative:classschedule1\\reservationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|c:\\users\\administrator\\downloads\\classschedule1\\classschedule1\\reservationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|solutionrelative:classschedule1\\reservationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|c:\\users\\administrator\\downloads\\classschedule1\\classschedule1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|solutionrelative:classschedule1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|c:\\users\\administrator\\downloads\\classschedule1\\classschedule1\\signwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|solutionrelative:classschedule1\\signwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|c:\\users\\administrator\\downloads\\classschedule1\\classschedule1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|solutionrelative:classschedule1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|c:\\users\\administrator\\downloads\\classschedule1\\classschedule1\\signwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D02E16-9E7A-4DD6-ACDE-EBEE130A5B6E}|ClassSchedule1\\ClassSchedule1.csproj|solutionrelative:classschedule1\\signwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyBookingsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\MyBookingsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClassSchedule1\\MyBookingsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\MyBookingsWindow.xaml.cs",
+              "RelativeToolTip": "ClassSchedule1\\MyBookingsWindow.xaml.cs",
+              "ViewState": "AgIAABwAAAAAaGZmZmb2v4AAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:48:11.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditBookingWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\EditBookingWindow.xaml",
+              "RelativeDocumentMoniker": "ClassSchedule1\\EditBookingWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\EditBookingWindow.xaml",
+              "RelativeToolTip": "ClassSchedule1\\EditBookingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T17:50:47.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditBookingWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\EditBookingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClassSchedule1\\EditBookingWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\EditBookingWindow.xaml.cs",
+              "RelativeToolTip": "ClassSchedule1\\EditBookingWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAzszMzMwEwHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:54:48.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\ReservationPage.xaml.cs",
+              "RelativeDocumentMoniker": "ClassSchedule1\\ReservationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\ReservationPage.xaml.cs",
+              "RelativeToolTip": "ClassSchedule1\\ReservationPage.xaml.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAuwPkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:13:12.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyBookingsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\MyBookingsWindow.xaml",
+              "RelativeDocumentMoniker": "ClassSchedule1\\MyBookingsWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\MyBookingsWindow.xaml",
+              "RelativeToolTip": "ClassSchedule1\\MyBookingsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T17:45:31.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ClassSchedule1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\MainWindow.xaml",
+              "RelativeToolTip": "ClassSchedule1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T16:08:19.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\ReservationPage.xaml",
+              "RelativeDocumentMoniker": "ClassSchedule1\\ReservationPage.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\ReservationPage.xaml",
+              "RelativeToolTip": "ClassSchedule1\\ReservationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T16:12:00.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClassSchedule1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ClassSchedule1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwIsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:08:14.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\SignWindow.xaml",
+              "RelativeDocumentMoniker": "ClassSchedule1\\SignWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\SignWindow.xaml",
+              "RelativeToolTip": "ClassSchedule1\\SignWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T16:16:06.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\SignWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClassSchedule1\\SignWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\SignWindow.xaml.cs",
+              "RelativeToolTip": "ClassSchedule1\\SignWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:17:30.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ClassSchedule1\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\ClassSchedule1\\ClassSchedule1\\AssemblyInfo.cs",
+              "RelativeToolTip": "ClassSchedule1\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:24:49.887Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
