@@ -13,8 +13,8 @@
 |Windows|Выпущено|
 
 ## Установка
-1.Установить Visual Studio 2022
-2.Установить PSQL
+-1.Установить Visual Studio 2022
+-2.Установить PSQL
 
 ## Разработчики
 - 1.Skwazimabzabza
