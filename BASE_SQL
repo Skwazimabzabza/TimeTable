@@ -20,3 +20,9 @@ CREATE TABLE Bookings (
     StartTime TIME NOT NULL,
     Duration INT NOT NULL, -- Duration in hours
 );
+
+-- Insert sample room data
+INSERT INTO Rooms (RoomNumber, RoomType, Capacity) VALUES
+('101', 'Лекционная', 50),
+('102', 'Компьютерный класс', 30),
+('103', 'Лаборатория', 20);
