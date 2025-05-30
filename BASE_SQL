@@ -1,0 +1,22 @@
+CREATE TABLE Users (
+    UserId SERIAL PRIMARY KEY,
+    Email VARCHAR(255) NOT NULL UNIQUE,
+    PasswordHash VARCHAR(255) NOT NULL,
+    CreatedAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE Rooms (
+    RoomId SERIAL PRIMARY KEY,
+    RoomNumber VARCHAR(50) NOT NULL,
+    RoomType VARCHAR(50) NOT NULL,
+    Capacity INT NOT NULL
+);
+
+CREATE TABLE Bookings (
+    BookingId SERIAL PRIMARY KEY,
+    UserId INT REFERENCES Users(UserId),
+    RoomId INT REFERENCES Rooms(RoomId),
+    BookingDate DATE NOT NULL,
+    StartTime TIME NOT NULL,
+    Duration INT NOT NULL, -- Duration in hours
+);
